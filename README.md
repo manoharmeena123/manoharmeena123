@@ -1,23 +1,19 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-ItsAnkitSingh-red)](https://www.youtube.com/itsankitsingh)
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-singh-422980227)](https://www.linkedin.com/in/ankit-singh-422980227/)
-[![Website Badge](https://img.shields.io/badge/Quora-Ankit-pink)](https://https://www.quora.com/profile/Ankit-Singh-14104)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Ankit-yellow)](https://stackoverflow.com/users/17924891/ankit-singh-)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-AnkitSingh-blue)](https://twitter.com/ItsAnkit5ingh)
-[![Website Badge](https://img.shields.io/badge/Website-AnkitSingh-green)](https://itsankitsingh.netlify.app/)
+
+
 
 I'm
 Full Stack Solution Architect.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), back-end development ( HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/ankitsingh711/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/manoharmeena123/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankitsingh711&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=manoharmeena123&column=7"/>
   </a>
 </div>
 
