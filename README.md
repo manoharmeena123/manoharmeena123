@@ -3,7 +3,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ItsManoharMeena-red)](https://www.youtube.com/@manoharmeena3346/videos)
 [![Linkedin Badge](https://img.shields.io/badge/-Manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar-meena-1a132221b)](https://www.linkedin.com/in/manohar-meena-1a132221b/)
-[![Website Badge](https://img.shields.io/badge/Quora-Manohar-pink)]([[https://https://www.quora.com/profile/Manohar-Meena-14104](https://www.quora.com/profile/Manohar-Meena-52)](https://www.quora.com/profile/Manohar-Meena-52))
+[![Website Badge](https://img.shields.io/badge/Quora-Manohar-pink)]([(https://www.quora.com/profile/Manohar-Meena-52)](https://www.quora.com/profile/Manohar-Meena-52)](https://www.quora.com/profile/Manohar-Meena-52)](https://www.quora.com/profile/Manohar-Meena-52))
 
 
 
