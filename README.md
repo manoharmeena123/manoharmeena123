@@ -27,12 +27,18 @@ Languages and Tools:
 ![](https://activity-graph.herokuapp.com/graph?username=manoharmeena123&theme=react-dark&area=true)
 
 
-<img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharmeena123&lans-count=4" alt="">
+<!-- <img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharmeena123&lans-count=4" alt="">
 <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=manoharmeena123&show_icons=true&locale=en" alt="">
 <img  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=manoharmeena123&" alt="">
-
-
-
+ -->
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="manoharmeena123" /></td>
+     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharmeena123&lans-count=4" alt="manoharmeena123" /></td>
+  </tr>
+</table>
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -41,5 +47,5 @@ Languages and Tools:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
-
+ -->
 
