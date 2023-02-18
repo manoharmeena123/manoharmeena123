@@ -34,8 +34,9 @@ Languages and Tools:
 <table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="manoharmeena123" /></td>
      <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharmeena123&lans-count=4" alt="manoharmeena123" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="manoharmeena123" /></td>
+    
   </tr>
 </table>
 <!-- 
